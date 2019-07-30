@@ -1,0 +1,19 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+reviewers:
+  - tstromberg
+  - afbjorklund
+  - sharifelgamal
+  - RA489
+  - medyagh
+approvers:
+  - tstromberg
+  - afbjorklund
+  - sharifelgamal
+  - RA489
+  - medyagh
+emeritus_approvers:
+  - dlorenc
+  - luxas
+  - jimmidyson
+  - r2d4
